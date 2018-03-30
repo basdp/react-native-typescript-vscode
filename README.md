@@ -7,4 +7,10 @@ react-native init AwesomeProject
 # install deps
 npm install typescript tslint rimraf concurrently --save-dev
 
+# install typings
+npm install @types/react @types/react-native @types/jest --save-dev
+
+# create tsconfig.json
+wget 
+
 ```
